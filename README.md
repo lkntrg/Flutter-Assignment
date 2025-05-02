@@ -4,7 +4,7 @@
 
 You can view the app live here:
 
-[View the app](https://maria-gul28.github.io/FLUTTER-MOBILE-APP-CAPSTONE-PROJECT/)
+[View the app](https://github.com/lkntrg)
 
 ## Getting Started
 
